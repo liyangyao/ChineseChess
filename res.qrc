@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+	<file alias="board.bmp">RES/BOARD.BMP</file>
+	<file alias="16.png">RES/BK.png</file>
+        <file alias="17.png">RES/BA.png</file>
+        <file alias="18.png">RES/BB.png</file>
+	<file alias="19.png">RES/BN.png</file>
+	<file alias="20.png">RES/BR.png</file>
+        <file alias="21.png">RES/BC.png</file>              
+        <file alias="22.png">RES/BP.png</file>
+        <file alias="8.png">RES/RK.png</file>
+        <file alias="9.png">RES/RA.png</file>
+        <file alias="10.png">RES/RB.png</file>
+	<file alias="11.png">RES/RN.png</file>
+	<file alias="12.png">RES/RR.png</file>
+        <file alias="13.png">RES/RC.png</file>                
+        <file alias="14.png">RES/RP.png</file>        
+        <file alias="selected.png">RES/SELECTED.png</file>
+    </qresource>
+</RCC>
